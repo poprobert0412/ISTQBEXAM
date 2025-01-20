@@ -10,3 +10,8 @@ I Learnt about testing and debugging, why is testing necessary, testings contrib
 Errors, defect, failures and root causes and did some exam tests
 """
 
+"""
+Day 4 of learing for ISTQB exam chapter 1
+i did a lot of exam questions like 100
+learnt about the errors and test features
+"""
