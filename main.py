@@ -20,3 +20,10 @@ learnt about the errors and test features
 Day 5  of learing for ISTQB exam chapter 1
 I did a lot of exam questions and learned about test activities, testware and test roles
 """
+
+
+"""
+Day 6  of learing for ISTQB exam chapter 1
+Just finished chapter 1 and now i have left over 100 exam questions 
+Learnt about essential skills and good practices in testing
+"""
