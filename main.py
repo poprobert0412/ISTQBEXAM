@@ -33,3 +33,9 @@ Day 7  of learing for the ISTQB exam
 Just finished chapter 1 
 Starting chapter 2
 """
+
+"""
+Day 7  of learing for the ISTQB exam 
+Started chapter 2 and learned about  SDLC, BDD, TDD, ATDD, DevOps Shift left approach etc.
+Also did some tests
+"""
