@@ -42,6 +42,6 @@ Also did some tests
 
 
 """
-Day 8  of learing for the ISTQB exam 
+Day 9  of learing for the ISTQB exam 
 Solved more tests
 """
