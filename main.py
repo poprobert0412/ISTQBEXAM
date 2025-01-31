@@ -11,19 +11,19 @@ Errors, defect, failures and root causes and did some exam tests
 """
 
 """
-Day 4 of learing for the ISTQB exam 
+Day 3 of learing for the ISTQB exam 
 i did a lot of exam questions like 100
 learnt about the errors and test features
 """
 
 """
-Day 5  of learing for the ISTQB exam 
+Day 4  of learing for the ISTQB exam 
 I did a lot of exam questions and learned about test activities, testware and test roles
 """
 
 
 """
-Day 6  of learing for the ISTQB exam 
+Day 5  of learing for the ISTQB exam 
 Just finished chapter 1 and now i have left over 100 exam questions 
 Learnt about essential skills and good practices in testing
 """
@@ -35,7 +35,13 @@ Starting chapter 2
 """
 
 """
-Day 7  of learing for the ISTQB exam 
+Day 8  of learing for the ISTQB exam 
 Started chapter 2 and learned about  SDLC, BDD, TDD, ATDD, DevOps Shift left approach etc.
 Also did some tests
+"""
+
+
+"""
+Day 8  of learing for the ISTQB exam 
+Solved more tests
 """
